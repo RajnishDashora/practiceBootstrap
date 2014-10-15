@@ -1,4 +1,15 @@
+/*base*/
+body {
+  margin: 0px;
+  padding: 0px;
+}
 .test {
   margin: 10px;
   color: deepskyblue;
 }
+/*layout*/
+.header {
+  font-size: 1em;
+}
+/*modules*/
+/*tools*/
